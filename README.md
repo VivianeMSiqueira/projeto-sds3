@@ -14,12 +14,12 @@ A aplicação consiste em um dashboard utilizando React com gráficos utilizando
 
 # **Layout web**
 
-![Web 1]([projeto-sds3/home.png at main · VivianeMSiqueira/projeto-sds3 (github.com)](https://github.com/VivianeMSiqueira/projeto-sds3/blob/main/frontend/src/assets/img/home.png)
+![Web 1](https://raw.githubusercontent.com/VivianeMSiqueira/projeto-sds3/main/frontend/src/assets/img/home.png)
 
-![Web 2]([projeto-sds3/dashboard.png at main · VivianeMSiqueira/projeto-sds3 (github.com)](https://github.com/VivianeMSiqueira/projeto-sds3/blob/main/frontend/src/assets/img/dashboard.png)
+![Web 2](https://raw.githubusercontent.com/VivianeMSiqueira/projeto-sds3/main/frontend/src/assets/img/dashboard.png)
 
 ## Modelo conceitual
-![Web 1]([projeto-sds3/sds3-mc.png at main · VivianeMSiqueira/projeto-sds3 (github.com)](https://github.com/VivianeMSiqueira/projeto-sds3/blob/main/frontend/src/assets/img/sds3-mc.png)
+![Web 1](https://raw.githubusercontent.com/VivianeMSiqueira/projeto-sds3/main/frontend/src/assets/img/sds3-mc.png)
 
 # 💻 Tecnologias
 
