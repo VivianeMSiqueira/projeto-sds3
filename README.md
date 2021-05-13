@@ -71,7 +71,7 @@ Pré-requisitos: yarn
 # clonar repositório
 git clone https://github.com/VivianeMSiqueira/projeto-sds3.git
 
-# entrar na pasta do projeto front end
+# entrar na pasta do projeto frontend
 cd frontend
 
 # instalar dependências
