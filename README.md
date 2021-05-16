@@ -8,7 +8,7 @@ Projeto realizado durante a Semana DevSuperior 3.0
 
 # 📣 Sobre
 
-Projeto de dashboard de vendas com backend e frontend de um app desenvolvida durante a Semana Spring React (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com.br/). 
+Projeto de dashboard de vendas com backend e frontend de um app desenvolvido durante a Semana Spring React (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com.br/). 
 
 A aplicação consiste em um dashboard utilizando React com gráficos utilizando React que mostra dados coletados de uma API em Spring Boot.
 
